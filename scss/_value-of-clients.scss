@@ -1,0 +1,22 @@
+.value-of-clients{
+    background-color: $green;
+    height: 600px;
+    margin-top: 250px;
+    .clients-value{
+        height: 300px;    
+    }
+    .our-clients-section{
+       margin: 80px 0;
+       icon{
+        display: flex;
+        align-items: center;
+       }
+       i{
+        width: 40px;
+        height: 40px;
+        background-color: $orange;
+        border-radius: 50%;
+        
+       }
+    }
+}
